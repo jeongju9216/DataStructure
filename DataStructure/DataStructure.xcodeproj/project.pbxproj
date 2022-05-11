@@ -6,6 +6,10 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		9BC9C081282A70850038396E /* LinkedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BC9C080282A70850038396E /* LinkedList.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		9B1A114527FF23E500E2CE08 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -23,6 +27,7 @@
 		9B1A114A27FF23E500E2CE08 /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
 		9B1A11592800013600E2CE08 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
 		9B1A115F28014A6300E2CE08 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
+		9BC9C080282A70850038396E /* LinkedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkedList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +63,7 @@
 				9B1A114A27FF23E500E2CE08 /* Stack.swift */,
 				9B1A11592800013600E2CE08 /* Array.swift */,
 				9B1A115F28014A6300E2CE08 /* Queue.swift */,
+				9BC9C080282A70850038396E /* LinkedList.swift */,
 			);
 			path = DataStructure;
 			sourceTree = "<group>";
@@ -121,6 +127,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9BC9C081282A70850038396E /* LinkedList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
