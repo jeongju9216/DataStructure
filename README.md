@@ -73,3 +73,36 @@ https://jeong9216.tistory.com/401
   - insert / remove: 최선의 시나리오
   - insert / remove: 어중간한 시나리오
   - insert / remove: 최악의 시나리오
+
+## Tree 개념
+https://jeong9216.tistory.com/412
+- 트리란?
+  - 트리 용어
+- 트리의 특징
+- 트리의 종류
+  - 편향 트리 (skew tree)
+  - 이진트리 (binary tree)
+  - 완전 이진 트리 (Complete Binary Tree)
+  - 정 이진 트리 (Full Binary Tree)
+  - 포화 이진 트리 (Perfect Binary tree)
+  - 이진 탐색 트리 (Binary Search Tree)
+- 트리의 순회 (Tree Traversal)
+- 트리의 활용
+  - Heap
+  - 데이터 베이스 인덱싱(Indexing)
+  - Trie
+
+## Binary Search Tree 구현
+https://jeong9216.tistory.com/413
+- Swift로 이진 탐색 트리 구현하기
+- 트리 출력하기
+- Node 클래스
+- BinarySearchTree 클래스
+  - root 노드
+  - 삽입 (insert)
+  - 탐색 (search)
+  - 삭제 (remove)
+    - 루트 노드 삭제 케이스
+    - Leaf 노드 삭제하기
+    - 내부 노드 삭제 케이스
+- 전체 코드
