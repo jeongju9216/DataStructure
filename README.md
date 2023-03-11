@@ -52,6 +52,7 @@ https://jeong9216.tistory.com/350
 
 ## LinkedList
 https://jeong9216.tistory.com/401
+https://jeong9216.tistory.com/594
 - Singly linked list(링크드 리스트)란?
 - 배열과 링크드 리스트의 차이
 - Doubly linked list(양방향 링크드 리스트)
